@@ -1,94 +1,143 @@
-<h1 align="center">Carlos Valladares 👨‍💻</h1>
+<h1 align="center">CarlosV() [{ DesarrolladorFullStack() }]</h1>
 
 <p align="center">
-  <strong>Fullstack Web Developer</strong> · SaaS Builder · Founder of <strong>Codefore Solutions</strong>
-</p>
-
-<p align="center">
-  Desarrollo aplicaciones web modernas, sistemas escalables y soluciones orientadas a negocio.
+  <em>La mejor forma de predecir el futuro es inventándolo.</em>
 </p>
 
 <p align="center">
-  <a href="https://codeforesolutions.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-codeforesolutions.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website badge" />
-  </a>
-  <a href="https://www.youtube.com/@starhotaru" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@starhotaru-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube badge" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070623499949" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Perfil-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook badge" />
-  </a>
+  Desarrollador Web Fullstack en Codefore Solutions
 </p>
 
----
-
-## 🚀 Sobre mí
-
-Soy desarrollador web fullstack con enfoque en construcción de productos, arquitectura de sistemas y desarrollo de soluciones escalables.  
-Actualmente trabajo en proyectos orientados a plataformas SaaS, aplicaciones empresariales y experiencias web modernas desde **Codefore Solutions**.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hotaruv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=es" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hotaruv&layout=compact&langs_count=6&theme=dracula&locale=es" height="160" alt="Top languages" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angular logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" />
+<p align="center">
+  <a href="https://codeforesolutions.com/">Sitio Web</a> ·
+  <a href="https://codeforesolutions.com/cv.html">Curriculum Vitae</a> ·
+  <a href="https://www.youtube.com/@starhotaru">YouTube</a> ·
+  <a href="https://www.facebook.com/profile.php?id=100070623499949">Facebook</a>
 </p>
 
-### Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="laravel logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+<hr>
+
+<h2>Sobre mí</h2>
+
+<p>
+  Soy Carlos Valladares, desarrollador web fullstack con enfoque en la creación de soluciones modernas,
+  escalables y orientadas a resultados. Mi trabajo combina desarrollo, análisis, estructura y visión de producto
+  para construir plataformas sólidas y funcionales.
 </p>
 
----
-
-## 💼 En qué trabajo
-
-- Desarrollo de aplicaciones web fullstack
-- Creación de plataformas SaaS
-- Automatización de procesos y herramientas digitales
-- Soluciones web a medida para negocio y operación
-
----
-
-## 🌐 Enlaces
-
-<p align="left">
-  <a href="https://codeforesolutions.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
-  </a>
-  <a href="https://www.youtube.com/@starhotaru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070623499949" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
+<p>
+  Mi objetivo no es solo escribir código, sino diseñar soluciones digitales bien pensadas, con una arquitectura
+  clara y una ejecución profesional.
 </p>
 
----
+<hr>
 
-## 🐍 Actividad
+<h2>Mi experiencia</h2>
 
-<div align="center">
-  <img src="https://codeforesolutions.com/assets/imagenes/snake.svg" alt="Animación de serpiente" />
-</div>
+<p>
+  Inicié en el mundo de la programación en 2008 y desde entonces he trabajado en distintos tipos de proyectos,
+  fortaleciendo tanto la parte técnica como la capacidad de análisis y resolución de problemas.
+</p>
+
+<p>
+  He participado en soluciones para negocio, plataformas web, herramientas administrativas y sistemas a medida,
+  manteniéndome en constante aprendizaje para mejorar procesos, tecnologías y resultados.
+</p>
+
+<hr>
+
+<h2>Stack principal</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <p>
+        JavaScript<br>
+        TypeScript<br>
+        Angular<br>
+        HTML5<br>
+        CSS3
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <p>
+        Laravel<br>
+        PHP<br>
+        Python
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Enfoque</h3>
+      <p>
+        SaaS<br>
+        Arquitectura de software<br>
+        Automatización<br>
+        Sistemas empresariales
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>Lo que construyo</h2>
+
+<ul>
+  <li>Aplicaciones web fullstack</li>
+  <li>Plataformas SaaS</li>
+  <li>Sistemas empresariales</li>
+  <li>Soluciones a medida para operación y negocio</li>
+  <li>Herramientas digitales orientadas a productividad</li>
+</ul>
+
+<hr>
+
+<h2>Estadísticas</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hotaruv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=es"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotaruv&layout=compact&langs_count=6&theme=dracula&locale=es"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<hr>
+
+<h2>Proyección profesional</h2>
+
+<p>
+  Considero que el desarrollo va más allá de programar. También implica entender necesidades, estructurar soluciones,
+  anticipar crecimiento y construir herramientas que realmente aporten valor.
+</p>
+
+<p>
+  Mi visión con Codefore Solutions es seguir creando productos, plataformas y experiencias digitales que reflejen
+  un trabajo serio, moderno y de alta calidad.
+</p>
+
+<hr>
+
+<h2>Contacto</h2>
+
+<p>
+  Sitio web: <a href="https://codeforesolutions.com/">codeforesolutions.com</a><br>
+  CV: <a href="https://codeforesolutions.com/cv.html">Ver curriculum</a><br>
+  YouTube: <a href="https://www.youtube.com/@starhotaru">@starhotaru</a><br>
+  Facebook: <a href="https://www.facebook.com/profile.php?id=100070623499949">Perfil de Facebook</a>
+</p>
+
+<hr>
+
+<h2>Actividad</h2>
+
+<p align="center">
+  <img src="./assets/snake.svg" alt="Actividad de contribuciones" />
+</p>
