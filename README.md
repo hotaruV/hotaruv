@@ -104,7 +104,6 @@ Linux
 <img src="https://skillicons.dev/icons?i=laravel,php,python,angular,ts,js,mysql,redis,docker,linux,git,github&theme=light" alt="Tech Stack" />
 
 </div>
-
 <br>
 
 <div align="center">
@@ -134,9 +133,7 @@ Linux
 </div>
 
 <br>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:1f2937,50:111827,100:0b1220&text=END%20OF%20TRANSMISSION&fontColor=93c5fd&fontSize=20" />
-
 </div>
+
